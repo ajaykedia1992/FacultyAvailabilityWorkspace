@@ -1,0 +1,8 @@
+com\facultyavailability\service\impl\StudentServiceImpl.class
+com\facultyavailability\service\util\IConfigurationService.class
+com\facultyavailability\service\util\IStudentService.class
+com\facultyavailability\service\util\IUserService.class
+com\facultyavailability\service\impl\ConfigurationServiceImpl.class
+com\facultyavailability\service\util\IFacultyService.class
+com\facultyavailability\service\impl\FacultyServiceImpl.class
+com\facultyavailability\service\impl\UserServiceImpl.class

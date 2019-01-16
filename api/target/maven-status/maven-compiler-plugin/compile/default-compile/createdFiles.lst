@@ -1,0 +1,6 @@
+com\facultyavailability\controller\BaseController.class
+com\facultyavailability\controller\StudentController.class
+com\facultyavailability\controller\UserController.class
+com\facultyavailability\controller\FacultyController.class
+com\facultyavailability\controller\SwaggerConfig.class
+com\facultyavailability\controller\ConfigurationController.class
